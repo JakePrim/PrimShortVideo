@@ -1,0 +1,1 @@
+include ':app', ':prim-short-video', ':prim-list-video'
